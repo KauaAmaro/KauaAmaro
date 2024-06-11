@@ -14,7 +14,7 @@
 ### Estatísticas 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaAmaro&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAmaro&demo=true)](https://github.com/KauaAmaro/github-readme-stats)
