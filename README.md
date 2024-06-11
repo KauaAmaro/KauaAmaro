@@ -15,7 +15,7 @@
 
 
 
-[![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaAmaro&showicons=true&theme=dracula)(https://github.com/KauaAmaro/github-readme-stats)]
+![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaAmaro&showicons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAmaro&demo=true)](https://github.com/KauaAmaro/github-readme-stats)
 
