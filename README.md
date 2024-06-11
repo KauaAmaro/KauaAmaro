@@ -23,5 +23,5 @@
 
 ### Cursando:
 
-## <strong> 🕒🎓 Engenharia da Computação 5/10 </strong>
+## <strong> 🕒🎓 Engenharia da Computação 7/10 </strong>
 ####   (UNINASSAU GRAÇAS; RECIFE-PE)
