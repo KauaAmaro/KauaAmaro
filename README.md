@@ -1,26 +1,106 @@
+# 👋 Olá! Eu sou Kauã Amaro
 
-### Olá! Eu sou Kauã Amaro! 👩‍💻
+**Engenheiro de Computação** | **Desenvolvedor Full Stack** | **Entusiasta de Tecnologia**
 
-<hr>
+🎓 Estudante de Engenharia da Computação na UNINASSAU - Campus Graças, Recife-PE
 
-### Redes Sociais:
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauan.amaro/)
+## 📱 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-amaro-da-silva-655264223/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-amaro-da-silva-655264223/)
 
-<hr>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauaAmaro)
 
-### Estatísticas 
+---
+
+## 🛠️ Habilidades Técnicas
+
+### Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-82B328?style=for-the-badge&logo=csharp&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064A4?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaAmaro&show_icons=true&theme=transparent)
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAmaro&demo=true)](https://github.com/KauaAmaro/github-readme-stats)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<hr>
+![Kong](https://img.shields.io/badge/Kong-003366?style=for-the-badge&logo=kong&logoColor=white)
 
-### Cursando:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## <strong> 🕒🎓 Engenharia da Computação 7/10 </strong>
-####   (UNINASSAU GRAÇAS; RECIFE-PE)
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KauaAmaro&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAmaro&layout=compact&theme=radical)
+
+---
+
+## 🎓 Formação Acadêmica
+
+### 🕒 Engenharia da Computação
+**UNINASSAU - Campus Graças** | Recife-PE
+- Status: 10/10 semestres
+- Foco: Desenvolvimento de Software, Sistemas Distribuídos, Arquitetura de Software
+
+---
+
+## 💻 Projetos em Destaque
+
+### 🚀 edu-platform
+Plataforma educacional com arquitetura de microsserviços usando Kong, Docker e PostgreSQL.
+
+**Tecnologias:** Node.js, Docker, Kong, PostgreSQL, Next.js
+
+### 📱 Py-Tcc
+Projeto de TCC envolvendo leitura de códigos de barras via câmera e armazenamento de dados.
+
+**Tecnologias:** Python, tkinter, OpenCV
+
+---
+
+## 🎯 Objetivos Profissionais
+
+- ✨ Desenvolver aplicações escaláveis e de alto desempenho
+- 🚀 Contribuir para projetos open source
+- 📚 Aprender continuamente novas tecnologias e melhores práticas
+- 💼 Buscar oportunidades em desenvolvimento full stack e arquitetura de software
+
+---
+
+## 📫 Contato
+
+- **Email:** kaua.amaro03@gmail.com 
+- **Localização:** Recife, PE, Brasil
+- **Disponibilidade:** Aberto a colaborações e oportunidades
+
+---
+
+
